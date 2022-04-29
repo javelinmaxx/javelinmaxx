@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @javelinmaxx
+- 👋 Hi, I’m @javelinmaxx / Joulez
 - 👀 I’m interested in Music and AI
 - 🌱 I’m currently learning Electronic Science and Technology at XJTLU
 - 💞️ I’m looking to collaborate on automatic equalization
